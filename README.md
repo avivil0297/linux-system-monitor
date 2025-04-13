@@ -23,7 +23,7 @@ This script collects and displays comprehensive information about your local Lin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/linux-system-monitor.git
+git clone https://github.com/avivil0297/linux-system-monitor.git
 cd linux-system-monitor
 ```
 
